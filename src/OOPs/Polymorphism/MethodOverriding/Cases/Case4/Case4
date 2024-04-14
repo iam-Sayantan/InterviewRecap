@@ -1,0 +1,4 @@
+Can we override a Main Method?
+
+We cannot override a main method since static keyword is used for the main method. Hence, the concept of Method Hiding
+comes into the picture.
