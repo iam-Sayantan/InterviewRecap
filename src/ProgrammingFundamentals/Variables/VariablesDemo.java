@@ -10,12 +10,13 @@ public class VariablesDemo {
     {
         int c = 20; // Local Variable
         int d = 30; // Local Variable
-        int sum = c+d;
+        System.out.println(c+d);
     }
 
     public static void multiply()
     {
         int e = 50; // e is now a local variable
+        System.out.println(e);
     }
 
 }
