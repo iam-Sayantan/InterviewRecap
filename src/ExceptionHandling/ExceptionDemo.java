@@ -1,4 +1,4 @@
-package Exceptions;
+package ExceptionHandling;
 
 public class ExceptionDemo {
 }
