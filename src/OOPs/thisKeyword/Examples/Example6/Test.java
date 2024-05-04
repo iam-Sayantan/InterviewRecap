@@ -9,6 +9,7 @@ public class Test
     }
     void m2(Test t) // Method m2 with parameter of type Test
     {
+        System.out.println("2");
         System.out.println(t); // Prints the object reference passed as argument
     }
 }
